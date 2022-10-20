@@ -47,3 +47,5 @@ $("#submit").click(function() {
 	}
 	setTimeout(quiz, 1000);	
 });
+
+window.memAdd = {};
